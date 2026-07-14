@@ -11,8 +11,6 @@ Following are the names of the programs that're uploaded in this repository:
 
 4)Number-guessing-game
 
-5)Simple-file-search-tool
+5)Mini-calculator
 
-6)Mini-calculator
-
-7)Python-flashcard-app
+6)Python-flashcard-app
