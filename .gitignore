@@ -1,0 +1,12 @@
+# Python files to ignore
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
